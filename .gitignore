@@ -1,0 +1,22 @@
+# Binários e objetos
+*.exe
+*.dll
+*.o
+*.obj
+*.a
+
+# Arquivos do vanBasco e músicas
+*.mid
+*.midi
+*.kar
+*.rmi
+*.vpl
+*.lyt
+*.bmp
+
+# Temporários
+*.zip
+__pycache__/
+*.pyc
+.vscode/
+.idea/
